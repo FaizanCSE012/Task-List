@@ -22,7 +22,3 @@ The Task List web application is a simple tool that allows you to manage your ta
 - HTML5
 - CSS3
 - JavaScript
-
-## License
-
-This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for details.
